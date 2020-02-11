@@ -1,4 +1,4 @@
-name: wireguard-ammp
+name: wireguard-sdg
 version: '0.0.20200121'
 summary: WireGuard VPN (userspace)
 description: |
